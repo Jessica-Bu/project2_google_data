@@ -14,6 +14,6 @@ Paid apps have, on average, higher user ratings.
 There is an optimal app size range that maximizes downloads and ratings.
 Price negatively impacts the number of downloads.
 
-The tasks were cleaning and aggregating the dataset, performing data analysis using MySQL and creating visualizations using the pandas library to support data-driven insights.
+The tasks were cleaning and aggregating the dataset, performing data analysis using MySQL and creating visualizations using the pandas library to support data-driven insights. We used sql queries with GROUP BY,ORDER BY,CASE,AVG(),SUM(),COUNT(),STD,WINDOW FUNCTIONS,Subqueries etc.
 
-Presentation: https://docs.google.com/presentation/d/14cBVueuqRwd9VjoLgxH0pGszJmZPalcwJn5nT62c9GA/edit?slide=id.g33d6d21602f_4_9#slide=id.g33d6d21602f_4_9
+The presentation can be found here: https://docs.google.com/presentation/d/14cBVueuqRwd9VjoLgxH0pGszJmZPalcwJn5nT62c9GA/edit?slide=id.g33d6d21602f_4_9#slide=id.g33d6d21602f_4_9
